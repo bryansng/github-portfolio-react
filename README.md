@@ -1,4 +1,4 @@
-# Part 2 - JAM (React.js) <!-- omit in toc -->
+# Part 2 - React.js <!-- omit in toc -->
 
 ## Workshop Goal <!-- omit in toc -->
 ![Workshop Goal](./readme-resources/img/workshop-goal.png "Workshop Goal")
