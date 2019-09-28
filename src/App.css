@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans|Ubuntu:400,700|Ubuntu+Mono&display=swap');
+
+/*
+font-family: 'Ubuntu Mono', monospace;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+font-family: 'Open Sans', sans-serif;
+*/
+
+.font-ubuntu-mono {
+  font-family: 'Ubuntu Mono', monospace;
+	font-weight: normal;
+}
+.font-ubuntu-mono-bold {
+  font-family: 'Ubuntu Mono', monospace;
+	font-weight: bold;
+}
+
+.font-opensans {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: normal;
+}
+.font-opensans-bold {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+}
+
+.font-montserrat-bold {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+
+
+
+html {
+  scroll-behavior: smooth;
+}
+body {
+  overflow: auto;
+  margin: 0;
+}
+
+
+a {
+  display: inline-block;
+  text-decoration: none;
+}
+a > div {
+  vertical-align: bottom;
+}
+
+.cursor-default {
+  cursor: default;
+}

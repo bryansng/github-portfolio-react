@@ -1,0 +1,25 @@
+{
+	"github_username": "your_github_username",
+	"title": "Projects",
+	"repo_endpoint_parameter": "sort=pushed",
+	"number_of_repos_to_show": 10,
+	"language_threshold": 0.1,
+	"languages_to_ignore_for_top": {
+		"Makefile": 1,
+		"Shell": 1,
+		"HTML": 1,
+		"CSS": 1,
+		"Roff": 1,
+		"XSLT": 1,
+		"Hack": 1
+	},
+	"number_of_languages_to_show": 4,
+	"email": "your_email@gmail.com",
+	"hire_msg": "Available for Hire",
+	"emojis": [
+		"https://github.githubassets.com/images/icons/emoji/unicode/1f947.png?v8",
+		"https://github.githubassets.com/images/icons/emoji/unicode/1f948.png?v8",
+		"https://github.githubassets.com/images/icons/emoji/unicode/1f949.png?v8",
+		"https://github.githubassets.com/images/icons/emoji/unicode/1f3c3.png?v8"
+	]
+}
